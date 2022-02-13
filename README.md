@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>More Cards...</summary>
-  <[<img align="left" width="75%" src="https://metrics.lecoq.io/fezcode?template=classic">]
+  <img align="left" width="75%" src="https://metrics.lecoq.io/fezcode?template=classic">
 </details> 
 
 ------
