@@ -52,7 +52,10 @@ Here are some ideas to get you started:
 > ```
 
 ## More Cards...
-
-[<img align="left" width="75%" src="https://metrics.lecoq.io/fezcode?template=classic">](https://metrics.lecoq.io/ouuan?template=classic)
+<details>
+  <summary>More...</summary>
+  <[<img align="left" width="75%" src="https://metrics.lecoq.io/fezcode?template=classic">](https://metrics.lecoq.io/ouuan?template=classic)
+</details>
+  
 
 ------
