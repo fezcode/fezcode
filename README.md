@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 |  <img align="center" height="25px" src="https://img.shields.io/badge/-Rust-red">            |                |
 |  <img align="center" height="25px" src="https://img.shields.io/badge/-C%2B%2B-brightgreen"> | 98, 11, 17, 20 |
 |  <img align="center" height="25px" src="https://img.shields.io/badge/-Javascript-yellow">   |                |
-|  <img align="center" height="25px" src="https://img.shields.io/badge/-Vue-green">           |                |
-|  <img align="center" height="25px" src="https://img.shields.io/badge/-Python-blue">         |                |
+|  <img align="center" height="25px" src="https://img.shields.io/badge/-Vue-green">           | 3              |
+|  <img align="center" height="25px" src="https://img.shields.io/badge/-Python-blue">         | 3              |
 |  <img align="center" height="25px" src="https://img.shields.io/badge/-C-blueviolet">        |                |
 |  <img align="center" height="25px" src="https://img.shields.io/badge/-Java-%23000f14">      | 8, 12          |
 |  <img align="center" height="25px" src="https://img.shields.io/badge/-%20C%23-blueviolet">  | 9              |
