@@ -51,11 +51,9 @@ Here are some ideas to get you started:
 > 🌊 Firefox 🧡🦊
 > ```
 
-## More Cards...
 <details>
-  <summary>More...</summary>
+  <summary>More Cards...</summary>
   <[<img align="left" width="75%" src="https://metrics.lecoq.io/fezcode?template=classic">](https://metrics.lecoq.io/ouuan?template=classic)
-</details>
-  
+</details> 
 
 ------
