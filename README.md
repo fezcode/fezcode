@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hello, it's me, Fezcode. 👋
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=fezcode&show_icons=true&theme=dracula)
+![Fezcode's github stats](https://github-readme-stats.vercel.app/api?username=fezcode&show_icons=true&theme=dracula)
 
 ----
 
 ## More... 🔥 🚀 
-- 🔭 I’m currently working on <span style="color: #b00b66; font-style: normal;"> 🤫 My Vue.js UI Project . . . <span>
-- 🌱 I’m currently learning <span style="color: #1dc471; font-style: normal;"> Vue.js <span>
+- 🔭 I’m currently working on 🤫 My Vue.js UI Framework.
+- 🌱 I’m currently learning Vue.js...
 - 📫  <a href="mailto:samil.bulbul@gmail.com"> Mail me </a>
 
 
