@@ -17,7 +17,7 @@ https://github.com/Ileriayo/markdown-badges
 
 -->
 
-# 👋 Hello, it's me, Fezcode. 👋
+# 👋 Hello, it's me, Fezcoddy. 👋
 ![Fezcode's github stats](https://github-readme-stats.vercel.app/api?username=fezcode&show_icons=true&theme=dracula)
 
 ----
