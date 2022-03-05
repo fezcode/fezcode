@@ -25,21 +25,27 @@ https://github.com/Ileriayo/markdown-badges
 ## More... 🔥 🚀 
 - 🔭 I’m currently working on 🤫 My Vue.js UI Framework.
 - 🌱 I’m currently learning Vue.js...
-- 📫  <a href="mailto:samil.bulbul@gmail.com"> Mail me </a>
 
 
-|  🛠 🔧 🔭                                                                             | 🆚             |  🛠 🔧 🔭                                                                             | 🆚             |
-|:-------------------------------------------------------------------------------------:|:--------------:|:-------------------------------------------------------------------------------------:|:--------------:|
-| ![Node](https://img.shields.io/badge/-NodeJS-blue?logo=node.js)                       |                | ![Scala](https://img.shields.io/badge/-Scala-%23000f14?logo=scala&logoColor=red)      |                |
-| ![Express](https://img.shields.io/badge/-Express-404d59?logo=express&logoColor=61DAFB)|                | ![C#](https://img.shields.io/badge/-%20C%23-blueviolet?logo=csharp)                   | 9              |
-| ![Rust](https://img.shields.io/badge/-Rust-red?logo=rust)                             |                | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)                  |                |
-| ![C++](https://img.shields.io/badge/-C%2B%2B-brightgreen?logo=c%2B%2B)                | 98, 11, 17, 20 | ![HTML](https://img.shields.io/badge/-HTML-05122A?logo=HTML5&logoColor=E34F26)        |                |
-| ![JS](https://img.shields.io/badge/-Javascript-yellow?logo=javascript)                |                | ![CSS](https://img.shields.io/badge/-CSS-05122A?logo=CSS3&logoColor=30A4D6)           |                |
-| ![Vue](https://img.shields.io/badge/-Vue-35495e?logo=vue.js)                          | 3              | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?logo=bootstrap)           |                |
-| ![Python](https://img.shields.io/badge/-Python-black?logo=python)                     | 3              | ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=latex)                       |                |
-| ![C](https://img.shields.io/badge/-C-blueviolet?logo=c)                               |                | ![Markdown](https://img.shields.io/badge/-Markdown-05122A?logo=markdown)              |                |
-| ![Java](https://img.shields.io/badge/-Java-%23000f14?logo=java)                       | 8, 12          | ![R](https://img.shields.io/badge/-R-05122A?logo=r)                                   |                |
-
+## 🛠 🔧 🔭
+![Node](https://img.shields.io/badge/-NodeJS-blue?logo=node.js)
+![Express](https://img.shields.io/badge/-Express-404d59?logo=express&logoColor=61DAFB)
+![Rust](https://img.shields.io/badge/-Rust-red?logo=rust)
+![C++](https://img.shields.io/badge/-C%2B%2B-brightgreen?logo=c%2B%2B)
+![JS](https://img.shields.io/badge/-Javascript-yellow?logo=javascript)
+![Vue](https://img.shields.io/badge/-Vue-35495e?logo=vue.js)
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
+![C](https://img.shields.io/badge/-C-blueviolet?logo=c)
+![Java](https://img.shields.io/badge/-Java-%23000f14?logo=java)
+![Scala](https://img.shields.io/badge/-Scala-%23000f14?logo=scala&logoColor=red)
+![C#](https://img.shields.io/badge/-%20C%23-blueviolet?logo=csharp)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![HTML](https://img.shields.io/badge/-HTML-05122A?logo=HTML5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-05122A?logo=CSS3&logoColor=30A4D6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?logo=bootstrap)
+![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=latex)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?logo=markdown)
+![R](https://img.shields.io/badge/-R-05122A?logo=r)
 
 ## Profiles
 > [🦊 _**Firefox Profile**_ 🦊](https://addons.mozilla.org/tr/firefox/user/17269481/)
