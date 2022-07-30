@@ -26,6 +26,9 @@ https://github.com/Ileriayo/markdown-badges
 - 🔭 I’m currently working on 🤫 My Vue.js UI Framework.
 - 🌱 I’m currently learning Vue.js...
 
+## Profiles
+- [🦊 _Firefox Profile_](https://addons.mozilla.org/tr/firefox/user/17269481/)
+- [🛠 _Repositories_](https://github.com/fezcode?tab=repositories)
 
 ## Doing things with...
 ![Node](https://img.shields.io/badge/-NodeJS-blue?logo=node.js)
@@ -50,9 +53,6 @@ https://github.com/Ileriayo/markdown-badges
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?logo=markdown)
 ![R](https://img.shields.io/badge/-R-05122A?logo=r)
 
-## Profiles
-- [🦊 _Firefox Profile_](https://addons.mozilla.org/tr/firefox/user/17269481/)
-- [🛠 _Repositories_](https://github.com/fezcode?tab=repositories)
 
 ## Tools
 
@@ -105,3 +105,4 @@ https://github.com/Ileriayo/markdown-badges
 </details> 
 
 ------
+
