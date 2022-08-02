@@ -36,19 +36,16 @@ https://github.com/Ileriayo/markdown-badges
 ![Rust](https://img.shields.io/badge/-Rust-red?logo=rust)
 ![C++](https://img.shields.io/badge/-C%2B%2B-brightgreen?logo=c%2B%2B)
 ![JS](https://img.shields.io/badge/-Javascript-yellow?logo=javascript)
-
 ![Vue](https://img.shields.io/badge/-Vue-35495e?logo=vue.js)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
 ![C](https://img.shields.io/badge/-C-blueviolet?logo=c)
 ![Java](https://img.shields.io/badge/-Java-%23000f14?logo=java)
 ![Scala](https://img.shields.io/badge/-Scala-%23000f14?logo=scala&logoColor=red)
-
 ![C#](https://img.shields.io/badge/-%20C%23-blueviolet?logo=csharp)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?logo=CSS3&logoColor=30A4D6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?logo=bootstrap)
-
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=latex)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?logo=markdown)
 ![R](https://img.shields.io/badge/-R-05122A?logo=r)
@@ -57,14 +54,14 @@ https://github.com/Ileriayo/markdown-badges
 ## Tools
 
 ### 💻 OS...
-![Linux](https://img.shields.io/badge/Linux-05122A?logoColor=FED800&logo=linux) 🐧 
+![Linux](https://img.shields.io/badge/Linux-05122A?logoColor=FED800&logo=linux)&nbsp; 
 ![Debian](https://img.shields.io/badge/Debian-05122A?logoColor=D70A53&logo=debian)&nbsp;
 ![ElementaryOS](https://img.shields.io/badge/ElementaryOS-05122A?logoColor=white&logo=elementary)&nbsp;
 ![Fedora](https://img.shields.io/badge/Fedora-05122A?logoColor=white&logo=Fedora)&nbsp;
 ![Manjaro](https://img.shields.io/badge/Manjaro-05122A?logoColor=35BF5C&logo=Manjaro)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?logoColor=E95420&logo=Ubuntu) <br>
-![Windows](https://img.shields.io/badge/Windows-05122A?logoColor=30A4D6&logo=windows) <br>
-![macos](https://img.shields.io/badge/macos-05122A?logoColor=violet&logo=macos) <br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?logoColor=E95420&logo=Ubuntu)&nbsp; 🐧
+![Windows](https://img.shields.io/badge/Windows-05122A?logoColor=30A4D6&logo=windows)&nbsp;
+![macos](https://img.shields.io/badge/macos-05122A?logoColor=violet&logo=macos)&nbsp;
 ![wsl](https://img.shields.io/badge/wsl-05122A?logoColor=30A4D6&logo=linux)
 
 ### 👨‍💻 IDEs...
