@@ -20,7 +20,7 @@ https://github.com/Ileriayo/markdown-badges
 # 👋 Hello, it's me, Ahmed Samil Bulbul a.k.a Fezcoddy. 👋
 ![Fezcode's github stats](https://github-readme-stats.vercel.app/api?username=fezcode&show_icons=true&theme=dracula)
 
-----
+# [Personal Website - fezcode.com](https://fezcode.com/)
 
 ## More...  
 - 🌱 learning Vue.js... 🤷
@@ -96,11 +96,6 @@ https://github.com/Ileriayo/markdown-badges
 ### 🌐🌊
 ![Firefox](https://img.shields.io/badge/-Firefox-05122A?logo=Firefox&logoColor=FF7139) &nbsp;🧡&nbsp;🦊&nbsp;<br> 
 ![Edge](https://img.shields.io/badge/-Edge-05122A?logo=Microsoft-edge&logoColor=0078D7)&nbsp;
-
-<details>
-  <summary>More Cards...</summary>
-  <img align="left" width="75%" src="https://metrics.lecoq.io/fezcode?template=classic">
-</details> 
 
 ------
 
