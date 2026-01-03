@@ -1,101 +1,89 @@
 <!--
 **fezcode/fezcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-For badges:
-https://github.com/Ileriayo/markdown-badges
-
 -->
 
-# 👋 Hello, it's me, Ahmed Samil Bulbul a.k.a Fezcoddy. 👋
-![Fezcode's github stats](https://github-readme-stats.vercel.app/api?username=fezcode&show_icons=true&theme=dracula)
+<div align="center">
 
-# [Personal Website - fezcode.com](https://fezcode.com/)
+[![Fezcode Banner](https://capsule-render.vercel.app/api?type=slice&color=001219&height=200&section=header&text=Ahmed%20Samil%20Bulbul&fontSize=50&fontFamily=Righteous&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Senior%20Software%20Engineer&descAlignY=65&descAlign=50&descColor=00b4d8)](https://fezcode.com/)
 
-## More...  
-- 🌱 learning Vue.js... 🤷
-- 🔭 working on 🤫 My Vue.js UI Framework.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-samil-bulbul/?locale=en_US)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-fezcode.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fezcode.com/)
+[![Firefox Profile](https://img.shields.io/badge/Firefox-Profile-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/tr/firefox/user/17269481/)
+![Profile Views](https://komarev.com/ghpvc/?username=fezcode&color=blueviolet&style=for-the-badge)
 
+<br/>
 
-## Profiles
-- [🦊 _Firefox Profile_](https://addons.mozilla.org/tr/firefox/user/17269481/)
-- [🛠 _Repositories_](https://github.com/fezcode?tab=repositories)
+### 🚀 GitHub Stats
 
-## Doing things with...
-![Node](https://img.shields.io/badge/-NodeJS-blue?logo=node.js)
-![Express](https://img.shields.io/badge/-Express-404d59?logo=express&logoColor=61DAFB)
-![Rust](https://img.shields.io/badge/-Rust-red?logo=rust)
-![C++](https://img.shields.io/badge/-C%2B%2B-brightgreen?logo=c%2B%2B)
-![JS](https://img.shields.io/badge/-Javascript-yellow?logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-35495e?logo=vue.js)
-![Python](https://img.shields.io/badge/-Python-black?logo=python)
-![C](https://img.shields.io/badge/-C-blueviolet?logo=c)
-![Java](https://img.shields.io/badge/-Java-%23000f14?logo=java)
-![Scala](https://img.shields.io/badge/-Scala-%23000f14?logo=scala&logoColor=red)
-![C#](https://img.shields.io/badge/-%20C%23-blueviolet?logo=csharp)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![HTML](https://img.shields.io/badge/-HTML-05122A?logo=HTML5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-05122A?logo=CSS3&logoColor=30A4D6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?logo=bootstrap)
-![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?logo=latex)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?logo=markdown)
-![R](https://img.shields.io/badge/-R-05122A?logo=r)
+![Fezcode's Stats](https://github-readme-stats.vercel.app/api?username=fezcode&show_icons=true&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fezcode&layout=compact&theme=dracula&hide_border=true)
 
-### 🔧 Wizardry...
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?logo=Jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?logo=Nginx&logoColor=009639)
-![Docker](https://img.shields.io/badge/-Docker-05122A?logo=Docker&logoColor=0db7ed)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?logo=Kubernetes&logoColor=326ce5)
-![Rancher](https://img.shields.io/badge/-Rancher-05122A?logo=Rancher&logoColor=0075A8)
-![Postman](https://img.shields.io/badge/-Postman-05122A?logo=Postman&logoColor=FF6C37)
-![Swagger](https://img.shields.io/badge/-Swagger-05122A?logo=Swagger&logoColor=Clojure)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fezcode&theme=dracula&hide_border=true)
 
-## Tools
+---
 
-### 💻 OS
-![Linux](https://img.shields.io/badge/Linux-05122A?logoColor=FED800&logo=linux)
-![Debian](https://img.shields.io/badge/Debian-05122A?logoColor=D70A53&logo=debian)
-![ElementaryOS](https://img.shields.io/badge/ElementaryOS-05122A?logoColor=white&logo=elementary)
-![Fedora](https://img.shields.io/badge/Fedora-05122A?logoColor=white&logo=Fedora)
-![Manjaro](https://img.shields.io/badge/Manjaro-05122A?logoColor=35BF5C&logo=Manjaro)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?logoColor=E95420&logo=Ubuntu) 🐧
-![Windows](https://img.shields.io/badge/Windows-05122A?logoColor=30A4D6&logo=windows)
-![macos](https://img.shields.io/badge/macos-05122A?logoColor=violet&logo=macos)
-![wsl](https://img.shields.io/badge/wsl-05122A?logoColor=30A4D6&logo=linux)
+### 💻 Tech Stack
 
-### 👨‍💻 IDEs
-![Vim](https://img.shields.io/badge/-Vim-05122A?logo=vim&logoColor=green)
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?logo=visual-studio-code&logoColor=007ACC)
-![Notepad++](https://img.shields.io/badge/-Notepad%2B%2B-05122A?logo=notepad%2B%2B&logoColor=brightgreen)
-![CLion](https://img.shields.io/badge/-CLion-05122A?logo=clion&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?logo=pycharm&logoColor=white)
-![Rider](https://img.shields.io/badge/-Rider-05122A?logo=rider&logoColor=white)
-![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?logo=WebStorm&logoColor=white)
-![VS](https://img.shields.io/badge/-Visual%20Studio-05122A?logo=visual-studio&logoColor=violet)
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?logo=sublime-text&logoColor=important)
-![Atom](https://img.shields.io/badge/-Atom-05122A?logo=atom&logoColor=important)
-![DataGrip](https://img.shields.io/badge/-DataGrip-05122A?logo=datagrip&logoColor=white)
+**Languages**
 
-### 🐚🦐 Shells
-![zsh](https://img.shields.io/badge/-zsh-05122A?logo=gnu-bash&logoColor=white)
-![bash](https://img.shields.io/badge/-bash-05122A?logo=gnu-bash&logoColor=white)
-![powershell](https://img.shields.io/badge/-powershell-05122A?logo=powershell&logoColor=BF0D4F)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+**Frameworks & Ecosystem**
 
-### 🌐🌊
-![Firefox](https://img.shields.io/badge/-Firefox-05122A?logo=Firefox&logoColor=FF7139) &nbsp;🧡&nbsp;🦊&nbsp;<br> 
-![Edge](https://img.shields.io/badge/-Edge-05122A?logo=Microsoft-edge&logoColor=0078D7)&nbsp;
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-------
+**Tools & DevOps**
 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+**IDEs & Editors**
+
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+
+**Shells & Browsers**
+
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F1502F?style=for-the-badge&logo=zsh&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+
+**Software & OS**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
